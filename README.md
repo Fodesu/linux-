@@ -1,10 +1,10 @@
 # linux-
 note for linux basic instructions
 
-
-基础指令 
+ 基础指令 
+ 
 1.ls 指令
-用法：
+  用法：
     1. #ls              作用：列出当前目录下的所有文件名和文件夹名。
     
     2. #ls 路径         作用：列出目标路径下的所有文件名和文件夹名。
