@@ -1,7 +1,7 @@
 # linux-
 note for linux basic instructions
 #  指令查找
-[Linux指令站](https://ipcmen.com）
+[Linux指令查找](https://ipcmen.com/)
 
 ## 基础指令 
  
